@@ -45,4 +45,4 @@ This repository contains a Python script for automating data workflows involving
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<username>/DataAutomation-SFTP-Database.git
+   git clone https://github.com/<username>/Data_Automation-SFTP-Database.git
